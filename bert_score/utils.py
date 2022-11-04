@@ -184,7 +184,7 @@ model2layers = {
     'khalidalt/DeBERTa-v3-large-mnli': 18, # 0.7428756686018376
     'dmis-lab/biobert-base-cased-v1.2' : 12,
     'emilyalsentzer/Bio_ClinicalBERT': 12,
-    'emilyalsentzer/Bio_Discharge_Summary_BERT': 12
+    'emilyalsentzer/Bio_Discharge_Summary_BERT': 12,
 }
 
 
